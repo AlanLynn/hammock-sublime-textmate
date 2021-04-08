@@ -1,0 +1,4 @@
+Thank you for installing the Hammock Color Scheme!
+
+To activate Hammock, in the menu select:
+Preferences -> Color Scheme -> Hammock
