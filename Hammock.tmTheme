@@ -160,7 +160,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c6c8d1</string>
+				<string>#eaebf5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -511,7 +511,7 @@
 				<key>background</key>
 				<string>#d8676c</string>
 				<key>foreground</key>
-				<string>#c6c8d1</string>
+				<string>#eaebf5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -537,7 +537,7 @@
 				<key>background</key>
 				<string>#8c6551</string>
 				<key>foreground</key>
-				<string>#c6c8d1</string>
+				<string>#eaebf5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -550,7 +550,7 @@
 				<key>background</key>
 				<string>#8c8d93</string>
 				<key>foreground</key>
-				<string>#c6c8d1</string>
+				<string>#eaebf5</string>
 			</dict>
 		</dict>
 	</array>
